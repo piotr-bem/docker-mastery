@@ -1,4 +1,4 @@
-# Assignment: Create a Stack with Secrets
+:wq:q# Assignment: Create a Stack with Secrets
 
 > Goal: Create and use a Swarm Secret in an existing Compose file.
 
